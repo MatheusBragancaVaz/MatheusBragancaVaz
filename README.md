@@ -1,6 +1,6 @@
 # Hello, i'm Matheus.
 
-Right now, I'm focused on Python, Kotlin, Java, NodeJS and creating projects.
+Right now, I'm focused on Python, Kotlin, Flutter, NodeJS and creating projects.
 
 ### About me
 - 💻 Currently learning more about networking, Docker and best practices in programming.
